@@ -8,7 +8,7 @@
 - pull request
 
 ## Topics covered
-- 
+- creating a pull request
 
 ## What I understood
 - 
