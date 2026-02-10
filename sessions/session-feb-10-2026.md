@@ -6,6 +6,7 @@
 - Create branch for session
 - create files for session
 - pull request
+- add colaborator mpalomera27
 
 ## Topics covered
 - creating a pull request
