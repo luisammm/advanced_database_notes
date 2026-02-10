@@ -14,6 +14,7 @@
 ## What I understood
 - 
 hello
+how to pull request
 ## What is still confusing
 - 
 
