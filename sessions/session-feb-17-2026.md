@@ -1,4 +1,4 @@
-# Session – 2026-02-10
+# Session – 2026-02-17
 The first thing we did into the session was to follow these steps
 - Get the repo link
 - Fork it
