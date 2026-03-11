@@ -1,28 +1,23 @@
-# Session – 2026-02-17
-The first thing we did into the session was to follow these steps
-- Get the repo link
-- Fork it
-- Click button to open editor
-- Create branch for session
-- create files for session
-- pull request
-- add colaborator mpalomera27
-
 ## Topics covered
-- How to fork a repo
-- Creating a pull request
-- The structure of how to create the folders for each sql challenge
+
+- Introduction to relational databases and how tables are connected
+- How relationships between tables work in SQL
+- Basic idea of JOIN operations
+- Different types of JOINs used to combine information from multiple tables
 
 ## What I understood
-- the structure of how we will be working with the repos, pull reqests, 
+
+- Relational databases organize data into multiple tables that are connected through shared values.
+- These connections allow us to retrieve related information from different tables instead of storing everything in one place.
+- JOIN statements are used when we want to combine data from two or more tables that share a common field.
+- Having identifiers like IDs in tables is important because they help link records between tables.
+
 ## What is still confusing
-- I think for now i understand the structure of how we will be working 
+
+- I still find it a bit difficult to clearly understand the difference between the various types of JOINs.
+- For example, I am not fully sure when it is better to use a LEFT JOIN versus an INNER JOIN.
 
 ## Questions
-- so far so good
 
-## Related concepts
-- [Concept name](../concepts/concept-name.md)
-
-## Resources used
-- See `resources/`
+- What are practical situations where each type of JOIN (INNER, LEFT, etc.) should be used?
+- Could we see a real example showing why one JOIN type is better than another in certain cases?
