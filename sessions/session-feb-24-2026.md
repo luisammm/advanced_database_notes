@@ -20,4 +20,4 @@
 ## Questions
 
 - When working with large datasets, what are some good practices when using aggregate functions?
-- Are there situations where aggregate functions should be avoided because of performance issues?
+- Are there situations where aggregate functions should be avoided because of performance issues?  m
