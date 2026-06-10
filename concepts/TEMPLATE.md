@@ -1,7 +1,7 @@
 # Concept name
-
+Triggers
 ## My understanding
-Explain the concept in your own words.
+SQL procedures that execute automatically when a specific event occurs.
 
 ## Why it matters
 Explain the practical impact.
